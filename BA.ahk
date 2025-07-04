@@ -1,6 +1,7 @@
 ﻿#SingleInstance Force
 
 MGui := Gui()
+MGui.Title = "SC"
 
 MGui.Add("Text", "XM10 YM10 W50 Center", "1 스킬")
 MGui.Add("Text", "X+10 W50 Center", "2 스킬")
